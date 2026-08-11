@@ -1,0 +1,22 @@
+【情报员 · 情报采集】
+
+
+
+【数据使用规则】
+
+我需要最新的数据，不是历史数据，调用搜索功能获取实时信息！现已启动双重校验机制，确保后续所有数据必须带有 Snapshot Datetime 时间戳
+
+
+
+https://www.pickastock.info/news ，
+
+https://www.klsescreener.com/v2/news,
+
+https://www.klsescreener.com/v2/announcements , https://klse.i3investor.com/web/headline/news
+
+收集 昨天/今天 新闻
+
+
+
+再根据 抓取到 的 信息， 能 列出 看涨或看跌 哪些 板块 或是 个股 会受 影响，   
+
